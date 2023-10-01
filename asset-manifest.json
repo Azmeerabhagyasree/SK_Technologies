@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SK_Technologies/static/css/main.073c9b0a.css",
+    "main.js": "/SK_Technologies/static/js/main.ff736821.js",
+    "static/js/787.d108c003.chunk.js": "/SK_Technologies/static/js/787.d108c003.chunk.js",
+    "index.html": "/SK_Technologies/index.html",
+    "main.073c9b0a.css.map": "/SK_Technologies/static/css/main.073c9b0a.css.map",
+    "main.ff736821.js.map": "/SK_Technologies/static/js/main.ff736821.js.map",
+    "787.d108c003.chunk.js.map": "/SK_Technologies/static/js/787.d108c003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ff736821.js"
+  ]
+}
